@@ -18,8 +18,8 @@ function NotFoundPage() {
             alt="404 Image"
             width="300px"
           />
-          <a href="/" className="btn-go-home">
-            <Link to="/">GO BACK HOME</Link>
+          <a href="https://abinandhanm.github.io/" className="btn-go-home">
+            GO BACK HOME
           </a>
         </div>
         <div className="objects">
