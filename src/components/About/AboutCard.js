@@ -10,10 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Abinandhan M </span>
             from <span className="purple"> Pollachi,Coimbatore , India.</span>
-            <br /> I will be graduating with a Bachelor's degree in Computer
-            Science and Engineering (B.E. CSE) in June 2023. Throughout my
-            academic journey, I have gained a deep understanding of computer
-            science concepts, programming languages, and problem-solving skills.
+            <br /> I graduated with a Bachelor's degree in Computer Science and
+            Engineering (B.E. CSE) in June 2023. Throughout my academic journey,
+            I gained a deep understanding of computer science concepts,
+            programming languages, and problem-solving skills.
             <br />
             Additionally, I am currently interning as a software developer at
             Kanini Software Solutions.
